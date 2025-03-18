@@ -1,0 +1,1 @@
+export type {AboutPageServerSideProps} from './AboutPageServerSideProps';

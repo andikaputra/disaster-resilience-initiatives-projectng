@@ -1,0 +1,90 @@
+# Node.js (Express, React, etc.)
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.local
+.env
+dist/
+build/
+coverage/
+*.tgz
+
+*.zip
+*.tar
+*.tar.gz
+
+# Python (Django, Flask, etc.)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.env
+*.egg-info/
+*.egg
+*.log
+db.sqlite3
+
+# Ruby on Rails
+/.bundle
+/log/*
+/tmp
+/db/*.sqlite3
+/node_modules
+*.log
+.env
+
+# Java (Spring Boot)
+/target
+/.mvn
+/.idea
+*.log
+*.jar
+*.war
+*.class
+*.iml
+*.hprof
+
+# PHP (Laravel, Symfony)
+/vendor
+/.env
+/.idea
+*.log
+storage/*
+/public/storage
+
+# Go
+/bin/
+/vendor/
+*.test
+*.out
+*.log
+
+# Angular
+node_modules/
+dist/
+tmp/
+*.log
+*.tgz
+.env
+
+# .NET (ASP.NET)
+bin/
+obj/
+*.sln
+*.user
+*.csproj.user
+*.dbmdl
+*.log
+
+# General
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# eof
